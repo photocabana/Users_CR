@@ -1,0 +1,43 @@
+html {
+    background-color: rgb(110, 108, 108);
+    color: white;
+}
+
+.center {
+    display: flex;
+    width: 50%;
+    background-color: rgb(99, 167, 167);
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+    font-size: 35pt;
+}
+
+.add_click {
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.middle {
+    display: flex;
+    width: 50%;
+    background-color: darkslategray;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    padding: 30px;
+}
